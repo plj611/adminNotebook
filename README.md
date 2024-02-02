@@ -7,4 +7,4 @@
 - Install .NET on Linux [Link](https://learn.microsoft.com/en-us/dotnet/core/install/linux-scripted-manual)
 - Install PowerShell on Linux [Link](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-linux?view=powershell-7.4)
 
-![](./vscodeAndWsl.jpg)
+![vscodeAndWsl](https://github.com/plj611/adminNotebook/assets/30945062/a1363089-76ba-4b6a-bde2-df189d491588)
