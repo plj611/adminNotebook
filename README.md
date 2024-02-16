@@ -2,6 +2,8 @@
 
 - [userLogonActivities](userLogonActivities.ipynb) - Obtain Entra ID users logon activities
 
+- [updateManagerEntraID](./updateManagerEntraID/updateManagerEntraID.ipynb) - A notebook that shows the mass update of user's manager in EntraID
+
 ### How to install Polyglot notebook and Powershell into WSL - Feb 2024
 
 - Install .NET on Linux [Link](https://learn.microsoft.com/en-us/dotnet/core/install/linux-scripted-manual)
