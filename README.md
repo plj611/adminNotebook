@@ -1,6 +1,6 @@
 ### Notebooks description
 
-- [userLogonActivities](userLogonActivities.ipynb) - Obtain Entra ID users logon activities
+- [userLogonActivities](./userLogonActivities/userLogonActivities.ipynb) - Obtain Entra ID users logon activities
 
 - [updateManagerEntraID](./updateManagerEntraID/updateManagerEntraID.ipynb) - A notebook that shows the mass update of user's manager in EntraID
 
